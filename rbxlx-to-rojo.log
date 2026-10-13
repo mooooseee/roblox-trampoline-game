@@ -1,0 +1,10 @@
+[INFO  rbxlx_to_rojo] rbxlx-to-rojo 1.2.0
+[INFO  rbxlx_to_rojo] Select a place file.
+[INFO  rbxlx_to_rojo] Opening C:\Users\husai\OneDrive\Desktop\trampoline systems demo.rbxl
+[INFO  rbxlx_to_rojo] Decoding place file, this is the longest part...
+[INFO  rbxlx_to_rojo] Skipped Terrain.VoxelGridAssetContentMap (a newer property type the file reader doesn't support yet). The export doesn't use it, so nothing is lost.
+[INFO  rbxlx_to_rojo] Select the folder to put your Rojo project in.
+[INFO  rbxlx_to_rojo] Writing the Rojo project to C:/Users/husai/OneDrive/Desktop/Github Repos/roblox-trampoline-game/trampoline systems demo
+[INFO  rbxlx_to_rojo] Starting processing, please wait a bit...
+[INFO  rbxlx_to_rojo] Scripts in place: 63 | written as files: 63 | inside .rbxm bundles: 0 | saved to __conflicts__ (not synced): 0 | in ignored services: 0
+[INFO  rbxlx_to_rojo] Done! Check C:/Users/husai/OneDrive/Desktop/Github Repos/roblox-trampoline-game/rbxlx-to-rojo.log for a full log.
